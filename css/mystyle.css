@@ -1,0 +1,168 @@
+body {
+  margin-top: 0;
+  margin-left: 0;
+  margin-right: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  font-size: 200%;
+  color: #40514E
+
+}
+
+h1 {
+  line-height: 2;
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  color: #66BFBF;
+}
+
+h2 {
+  font-weight: normal;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #66BFBF;
+}
+
+h3 {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+}
+
+p {
+ text-align: center;
+ line-height: 2;}
+
+hr {
+  border-style: none;
+border-top-style: dotted;
+border-color: grey;
+border-width: 5px;
+width: 5%;
+}
+
+.top-container {
+  background-color: #cdb30c;
+  position: relative;
+  padding-top: 100px;
+}
+
+
+
+.pro {
+  text-decoration: underline;
+}
+
+
+.intro { width: 50%;
+text-align: center;
+margin: 100px auto 100px auto;}
+
+.skill-row {
+  margin: 100px auto 200px auto;
+  width: 70%;
+  text-align: left;
+
+}
+
+
+
+.me {
+  height: 200px;
+  width: 200px;
+}
+
+
+
+.top-cloud {
+  position: absolute;
+  right: 500px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 500px;
+  bottom: 300px;
+}
+
+
+.middle-container {
+  margin: 100px 0;
+}
+
+
+
+
+.guitar-image {
+  width: 15%;
+  float: left;
+  margin-top: 110px;
+  margin-right: 40px;
+
+}
+
+.mask-image {
+  margin-top: 110px;
+  width: 15%;
+  float: right;
+  margin-left: 100px;
+}
+
+
+.myButton {
+	background:linear-gradient(to bottom, #7892c2 5%, #476e9e 100%);
+	background-color:#7892c2;
+	border-radius:27px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Impact;
+	font-size:30px;
+	font-style:italic;
+	padding:17px 37px;
+	text-decoration:none;
+	text-shadow:4px 6px 15px #283966;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #476e9e 5%, #7892c2 100%);
+	background-color:#476e9e;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
+
+.contact-me {text-align: center;
+  width: 50%;
+  margin: auto;
+
+}
+
+.bottom-container {
+  background-color: #cdb30c;
+padding: 50px 0 20px;
+}
+
+
+.footer-link{
+  color: #ff4301;
+padding-top: 50px;
+padding-right: 100px;
+line-height: 30px;
+
+text-decoration: none;
+
+}
+
+a:hover {
+  color: #EAf6f6;
+}
+
+.cr { color: #EAF6F6;
+margin: 0;
+font-size: 0.75rem;
+padding: 20px 0;
+}
